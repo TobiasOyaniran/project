@@ -1,0 +1,10 @@
+TASK ONE
+1. Create app.py, index.html, style.css
+2. Create status form
+3. Use form input to lead to activity page, along with activity recommendation based on status
+TASK TWO
+4. Create a list of links that present memes, so that if user chooses the meme activity random memes will
+be generated for them
+5. create a list of fun facts that presents fun facts, so that if the user chooses the fun facts 
+activity, fun facts will be presented for them
+6.
