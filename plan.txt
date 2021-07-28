@@ -7,4 +7,5 @@ TASK TWO
 be generated for them
 5. create a list of fun facts that presents fun facts, so that if the user chooses the fun facts 
 activity, fun facts will be presented for them
-6.
+TASK THREE
+6. Add design to app using css
